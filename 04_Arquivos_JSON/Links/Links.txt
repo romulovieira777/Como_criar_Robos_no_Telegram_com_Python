@@ -1,0 +1,8 @@
+Json
+https://json.org/json-en.html
+
+Python
+https://docs.python.org/3/library/json.html
+
+Editor Online Json
+https://jsoneditoronline.org/
