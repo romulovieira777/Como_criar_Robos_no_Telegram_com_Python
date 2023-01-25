@@ -1,0 +1,25 @@
+Links de APIs
+
+Facebook
+https://developers.facebook.com/docs/?locate=pt%20BR
+
+YouTube
+https://developers.google.com/youtube/v3
+
+Twitter
+https://dev.twitter.com/en/docs
+
+Instagram
+https://www.instagram.com/developer/
+
+Telegram
+https://core.telegram.org/bots/api
+
+CEP
+viacep.com.br
+
+Mercado Bitcoin
+https://www.mercadobitcoin.com.br/api-doc/
+
+OMDb API
+http://www.omdbapi.com/
