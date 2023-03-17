@@ -9,5 +9,6 @@
 - [06 - Robô no Telegram](https://github.com/romulovieira777/Como_criar_Robos_no_Telegram_com_Python/tree/main/06_Robo_no_Telegram)
 - [07 - Manipulando o Robô com Python](https://github.com/romulovieira777/Como_criar_Robos_no_Telegram_com_Python/tree/main/07_Manipulando_o_Rob%C3%B4_com_Python)
 - [08 - Biblioteca para Telegram Bots - TelePot](https://github.com/romulovieira777/Como_criar_Robos_no_Telegram_com_Python/tree/main/08_Biblioteca_para_Telegram_Bots_TelePot)
+- [09 - Biblioteca para telegram - Telegram Bot](https://github.com/romulovieira777/Como_criar_Robos_no_Telegram_com_Python/tree/main/09_Biblioteca_para_telegram_Telegram_Bot)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/como-criar-robos-no-telegram-com-python/)
